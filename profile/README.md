@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="extra/app-logo-dark.jpg" alt="Crypt0nest Logo" width="250">
+  <img src="/extra/app-logo-dark.jpg" alt="Crypt0nest Logo" width="250">
 </p>
 
 <h1 align="center">Welcome to Tekly Studio's Crypt0nest Project</h1>
